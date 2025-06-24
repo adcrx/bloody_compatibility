@@ -5,8 +5,8 @@ config :globi, Globi.Repo,
   username: "postgres",
   password: "postgres",
   hostname: "localhost",
+  port: 5433,
   database: "globi_dev",
-  stacktrace: true,
   show_sensitive_data_on_connection_error: true,
   pool_size: 10
 

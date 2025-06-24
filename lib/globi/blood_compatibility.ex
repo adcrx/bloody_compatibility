@@ -1,4 +1,4 @@
-defmodule BloodCompatibility do
+defmodule Globi.BloodCompatibility do
 
   @moduledoc """
   Módulo para determinar los tipos de sangre compatibles e incompatibles  a partir del tipo de sangre
